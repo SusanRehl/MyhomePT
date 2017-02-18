@@ -63,23 +63,38 @@ Picturefill
 ## Workflow
 
 1. Login screen
+
+
 <img width="444" alt="mypt1" src="https://cloud.githubusercontent.com/assets/17689199/23088728/fe5190b6-f544-11e6-92c9-5301733e62f7.png">
 
 2. Create account screen
+
+
 <img width="444" alt="mypt2" src="https://cloud.githubusercontent.com/assets/17689199/23088734/08566afa-f545-11e6-9ba2-ca3003c2f85d.png">
 
 3. User Dashboard screen
+
+
 <img width="444" alt="mypt3" src="https://cloud.githubusercontent.com/assets/17689199/23088737/0acadb90-f545-11e6-82db-00aa490e7f77.png">
 
 4. Create New Exercise Set screen
+
+
 <img width="444" alt="mypt4" src="https://cloud.githubusercontent.com/assets/17689199/23088739/0d002d20-f545-11e6-8470-6d55fabddb87.png">
 
 5. Exercise Set main screen
+
+
 <img width="444" alt="mypt5" src="https://cloud.githubusercontent.com/assets/17689199/23088741/105e38b8-f545-11e6-947b-537a8472126b.png">
 
 6. Add Exercise to an Exercise Set screen (can also edit and delete)
+
+
 <img width="444" alt="mypt6" src="https://cloud.githubusercontent.com/assets/17689199/23088743/12a69732-f545-11e6-9722-c2a48e4dd84a.png">
 
 7. Exercise set Log Activity (daily)
+
+
 <img width="444" alt="mypt7" src="https://cloud.githubusercontent.com/assets/17689199/23088744/15a61aa2-f545-11e6-98d9-f26d129a1315.png">
+
 Performance button opens a calendar graphic showing the number of times exercised per day.
