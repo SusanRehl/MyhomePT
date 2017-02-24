@@ -20,6 +20,7 @@
           - description (example: Lay on back and move arm in circles, keeping arm straight, trying to press arm as close to ground as possible. Go in one direction, then go in the other direction.)
           - Number of repetitions (example: 10)
           - Duration of each repetition (example: na)
+          - Equipment (in this example: none, but could include 5 lb weights, exercise bands, machines, etc.)
           - Number of times per day to be done (example: 10)
           - Active / inactive toggle button in case your exercises change throughout the course of your physical therapy
      D. Additional instructions, such as applying ice or heat, taking medication, etc.
