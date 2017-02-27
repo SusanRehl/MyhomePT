@@ -1,5 +1,7 @@
 # My Home Physical Therapy App
 
+The idea for this app came from my experience with physical therapy in Jan-Feb 2017. After diagnosis, I was given sheets of paper with drawings or black-and-white photos of exercises, and told to perform them 10 times per day. My challenges were 1) remembering the exercises correctly when I got home, and 2) remembering to do the exercises the prescribed number of times per day, at the prescribed intervals.
+
 ## Purpose:
 1. Accurately record the exercises prescribed
 2. Make exercises easily available for reference
